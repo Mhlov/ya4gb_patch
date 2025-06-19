@@ -1,5 +1,5 @@
-Yet Another 4Gb Path
-====================
+Yet Another 4Gb Patch
+=====================
 
 Tiny CLI utility that sets the **LARGEADDRESSAWARE** flag on 32-bit Windows
 executables, allowing them to use up to **4GB of RAM** on 64-bit systems.

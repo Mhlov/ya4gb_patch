@@ -3,7 +3,7 @@
 
 int main(int argc, char *argv[]) {
     if (argc < 2) {
-        printf("ya4gb_path.exe https://github.com/Mhlov/ya4gb_patch\n");
+        printf("ya4gb_patch.exe https://github.com/Mhlov/ya4gb_patch\n");
         printf("Usage: %s <exe_file>\n", argv[0]);
         return 1;
     }
